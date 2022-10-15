@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+
+
+- 🔭 I’m currently studying front end development at Noroff.
+- 🌱 I’m currently learning JavaScript and its frameworks.
+
 
 <!--
 **donnybrilliant/donnybrilliant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
