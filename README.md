@@ -1,8 +1,9 @@
 ### Hello World 👋
 
 
-- 🔭 I’m currently studying front end development at Noroff.
+- 🔭 I just graduated as a front end developer.
 - 🌱 I’m currently learning JavaScript and its frameworks.
+- 🤓 Curious about everything - backend next.
 
 
 <!--
