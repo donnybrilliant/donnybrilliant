@@ -1,9 +1,9 @@
 ### Hello World 👋
 
 
-- 🔭 I just graduated as a front end developer.
-- 🌱 I’m currently learning JavaScript and its frameworks.
-- 🤓 Curious about everything - backend next.
+- 🔭 JavaScript developer
+- 🌱 I’m currently learning more frameworks.
+- 🤓 Curious about everything..
 
 
 <!--
