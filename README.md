@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 
-- 🔭 JavaScript developer
+- 🔭 Web Developer
 - 🌱 I’m currently learning more frameworks.
 - 🤓 Curious about everything..
 
