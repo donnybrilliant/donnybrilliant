@@ -2,7 +2,7 @@
 
 
 - 🔭 Web Developer.
-- 🌱 I’m currently learning more frameworks.
+- 🌱 I’m currently developing multiple projects.
 - 🤓 Curious about everything..
 
 
